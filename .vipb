@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.3" Created_Date="2012-08-02 14:46:04" Modified_Date="2012-08-13 18:37:18" Creator="mraj" Comments="" ID="a382f8996563b1a73f7c5c9e9549eec0">
+<VI_Package_Builder_Settings Version="0.3" Created_Date="2012-08-02 14:46:04" Modified_Date="2012-10-16 22:00:41" Creator="mraj" Comments="" ID="08f8015d699a3341648ef2a29a5349d4">
   <Library_General_Settings>
     <Package_File_Name>i3_twitter</Package_File_Name>
-    <Library_Version>0.1.1.3</Library_Version>
+    <Library_Version>0.1.1.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\i3-twitter build</Library_Output_Folder>
+    <Library_Output_Folder>..\..\i3-twitter build</Library_Output_Folder>
     <Company_Name>LabVIEW Hacker</Company_Name>
     <Library_Summary/>
     <Library_License/>
@@ -16,8 +16,10 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>i3_json &gt;=0.1.0.2</Additional_External_Dependencies>
-      <Additional_External_Dependencies>i3_oauth &gt;=0.1.1.2</Additional_External_Dependencies>
+      <External_Dependencies>i3_json &gt;= 0.1.1.4</External_Dependencies>
+      <External_Dependencies>i3_oauth &gt;= 0.2.0.1</External_Dependencies>
+      <Direct_Dependencies>i3_json-0.1.1.4</Direct_Dependencies>
+      <Direct_Dependencies>i3_oauth-0.2.0.1</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
