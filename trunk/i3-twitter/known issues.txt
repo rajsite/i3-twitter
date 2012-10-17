@@ -1,3 +1,5 @@
 Twitter timestamps are returned as UTC
 maybe convert to Locale?
 https://decibel.ni.com/content/docs/DOC-11514
+
+Remove consumer key and secret from examples
