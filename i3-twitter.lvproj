@@ -22,8 +22,10 @@
 			<Item Name="Post New Media Tweet (LabVIEW Picture Type) - Finite.vi" Type="VI" URL="../Examples/Post New Media Tweet (LabVIEW Picture Type) - Finite.vi"/>
 			<Item Name="Post New Media Tweet (PNG, JPG, or GIF) - Finite.vi" Type="VI" URL="../Examples/Post New Media Tweet (PNG, JPG, or GIF) - Finite.vi"/>
 			<Item Name="Post New Tweet - Finite.vi" Type="VI" URL="../Examples/Post New Tweet - Finite.vi"/>
+			<Item Name="Search Tweets - Continuous.vi" Type="VI" URL="../Examples/Search Tweets - Continuous.vi"/>
 		</Item>
 		<Item Name="i3-twitter.lvlib" Type="Library" URL="../i3-twitter.lvlib"/>
+		<Item Name="lvpng.lvlib" Type="Library" URL="../lvpng.llb/lvpng.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
@@ -70,7 +72,6 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
-				<Item Name="NI_WebServices.lvlib" Type="Library" URL="/&lt;vilib&gt;/wsapi/NI_WebServices.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Open URL in Default Browser (path).vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser (path).vi"/>
 				<Item Name="Open URL in Default Browser (string).vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser (string).vi"/>

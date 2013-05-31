@@ -10,7 +10,11 @@
 		<Item Name="Get Mentions New.vi" Type="VI" URL="../Mentions/Get Mentions New.vi"/>
 		<Item Name="Get Mentions Old.vi" Type="VI" URL="../Mentions/Get Mentions Old.vi"/>
 	</Item>
+	<Item Name="Search" Type="Folder">
+		<Item Name="Get Tweets Search.vi" Type="VI" URL="../Search/Get Tweets Search.vi"/>
+	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Check SSL.vi" Type="VI" URL="../SubVIs/Check SSL.vi"/>
 		<Item Name="Decrement Twitter Max ID.vi" Type="VI" URL="../SubVIs/Decrement Twitter Max ID.vi"/>
 		<Item Name="HTTP Error.vi" Type="VI" URL="../SubVIs/HTTP Error.vi"/>
 		<Item Name="Twitter Timestamp to LabVIEW Timestamp.vi" Type="VI" URL="../SubVIs/Twitter Timestamp to LabVIEW Timestamp.vi"/>
