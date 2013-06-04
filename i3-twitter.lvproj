@@ -10,22 +10,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Examples" Type="Folder">
-			<Item Name="Get New Mentions - Continuous.vi" Type="VI" URL="../Examples/Get New Mentions - Continuous.vi"/>
-			<Item Name="Get New Mentions - Finite.vi" Type="VI" URL="../Examples/Get New Mentions - Finite.vi"/>
-			<Item Name="Get New Tweets - Continuous.vi" Type="VI" URL="../Examples/Get New Tweets - Continuous.vi"/>
-			<Item Name="Get New Tweets - Finite.vi" Type="VI" URL="../Examples/Get New Tweets - Finite.vi"/>
-			<Item Name="Get Old Mentions - Continuous.vi" Type="VI" URL="../Examples/Get Old Mentions - Continuous.vi"/>
-			<Item Name="Get Old Mentions - Finite.vi" Type="VI" URL="../Examples/Get Old Mentions - Finite.vi"/>
-			<Item Name="Get Old Tweets - Continuous.vi" Type="VI" URL="../Examples/Get Old Tweets - Continuous.vi"/>
-			<Item Name="Get Old Tweets - Finite.vi" Type="VI" URL="../Examples/Get Old Tweets - Finite.vi"/>
-			<Item Name="Post New Media Tweet (LabVIEW Picture Type) - Finite.vi" Type="VI" URL="../Examples/Post New Media Tweet (LabVIEW Picture Type) - Finite.vi"/>
-			<Item Name="Post New Media Tweet (PNG, JPG, or GIF) - Finite.vi" Type="VI" URL="../Examples/Post New Media Tweet (PNG, JPG, or GIF) - Finite.vi"/>
-			<Item Name="Post New Tweet - Finite.vi" Type="VI" URL="../Examples/Post New Tweet - Finite.vi"/>
-			<Item Name="Search Tweets - Continuous.vi" Type="VI" URL="../Examples/Search Tweets - Continuous.vi"/>
+		<Item Name="Examples" Type="Folder" URL="../Examples">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Libs" Type="Folder" URL="../Libs">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="i3-twitter.lvlib" Type="Library" URL="../i3-twitter.lvlib"/>
-		<Item Name="lvpng.lvlib" Type="Library" URL="../lvpng.llb/lvpng.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
