@@ -11,7 +11,7 @@
 		<Item Name="Get Mentions Old.vi" Type="VI" URL="../Mentions/Get Mentions Old.vi"/>
 	</Item>
 	<Item Name="Search" Type="Folder">
-		<Item Name="Get Tweets Search.vi" Type="VI" URL="../Search/Get Tweets Search.vi"/>
+		<Item Name="Get Tweets Search New.vi" Type="VI" URL="../Search/Get Tweets Search New.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Check SSL.vi" Type="VI" URL="../SubVIs/Check SSL.vi"/>
