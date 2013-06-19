@@ -17,6 +17,8 @@
 		<Item Name="Check SSL.vi" Type="VI" URL="../SubVIs/Check SSL.vi"/>
 		<Item Name="Decrement Twitter Max ID.vi" Type="VI" URL="../SubVIs/Decrement Twitter Max ID.vi"/>
 		<Item Name="HTTP Error.vi" Type="VI" URL="../SubVIs/HTTP Error.vi"/>
+		<Item Name="Twitter Open - Desktop.vi" Type="VI" URL="../SubVIs/Twitter Open - Desktop.vi"/>
+		<Item Name="Twitter Open - Embedded.vi" Type="VI" URL="../SubVIs/Twitter Open - Embedded.vi"/>
 		<Item Name="Twitter Timestamp to LabVIEW Timestamp.vi" Type="VI" URL="../SubVIs/Twitter Timestamp to LabVIEW Timestamp.vi"/>
 		<Item Name="Verify Credentials.vi" Type="VI" URL="../SubVIs/Verify Credentials.vi"/>
 	</Item>
