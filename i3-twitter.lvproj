@@ -84,8 +84,8 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="i3-external-encryption.lvlib" Type="Library" URL="../../i3-external-encryption/i3-external-encryption.lvlib"/>
-			<Item Name="i3-external-tools.lvlib" Type="Library" URL="../../i3-external-tools/i3-external-tools.lvlib"/>
 			<Item Name="i3-json.lvlib" Type="Library" URL="../../i3-json/i3-json.lvlib"/>
+			<Item Name="i3-oauth-logicalstringarraysort.lvlib" Type="Library" URL="../../i3-oauth/Libs/i3-oauth-logicalstringarraysort.llb/i3-oauth-logicalstringarraysort.lvlib"/>
 			<Item Name="i3-oauth.lvlib" Type="Library" URL="../../i3-oauth/i3-oauth.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
